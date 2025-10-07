@@ -36,7 +36,7 @@
 # 📂 Projects
 
 - **[Brain Tumor Detection](https://github.com/utbirla/Research_Brain-Tumor)** — Deep learning model using VGG16, ResNet, and Xception ensemble for tumor classification.  
-- **[UrbanAssist](https://github.com/Vedant2210/UrbanAssist)** — Digital platform to assist urban governance and civic issue reporting.  
+- **[UrbanAssist](https://github.com/Vedant2210/UrbanAssist)** — Digital platform to provide essential home services including home-cooked meals, gardening, and pest control, making daily life easier and more accessible.  
 - **[FindMyMed](https://github.com/Vedant2210/FindMyMed)** — Application to locate nearby pharmacies and medicines efficiently.  
 - **[Cabify](https://github.com/utbirla/Cabify)** — Cab booking platform built with real-time location tracking and ride management.
 - **[FitBite](https://github.com/Vedant2210/Heartilens_project)** — YOLO-based food detection app that estimates calories and cholesterol content from food images.   
