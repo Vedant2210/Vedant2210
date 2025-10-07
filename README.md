@@ -50,6 +50,6 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Vedant2210&theme=radical&no-bg=true)
 
 # 📫 Connect with Me
-- Email: **vedantnigam2210@gmail.com**  
-- LinkedIn: [Vedant Nigam](https://www.linkedin.com/in/vedant-nigam2210/)  
+- Email: **nigamvedant100@gmail.com**  
+- LinkedIn: [Vedant Nigam](www.linkedin.com/in/vedant-nigam22)  
 - GitHub: [Vedant2210](https://github.com/Vedant2210)
